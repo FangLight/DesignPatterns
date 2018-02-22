@@ -2,6 +2,10 @@ package GOF23.structural.Decorator;
 
 /**
  * User: Fang Lai<br/>
+ *
+ * Decorator pattern allows a user to add new functionality to an existing object without altering its structure
+ *
+ * Example: Java I/O stream
  */
 public class Client {
     public static void main(String[] args){
