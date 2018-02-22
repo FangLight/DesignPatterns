@@ -1,8 +1,8 @@
-package DesignPatterns.GOF23.creational.builder;
+package GOF23.creational.builder;
 
-import DesignPatterns.GOF23.creational.builder.product.Engine;
-import DesignPatterns.GOF23.creational.builder.product.PowerCore;
-import DesignPatterns.GOF23.creational.builder.product.SpaceShip;
+import GOF23.creational.builder.product.Engine;
+import GOF23.creational.builder.product.PowerCore;
+import GOF23.creational.builder.product.SpaceShip;
 
 /**
  * User: Fang Lai<br/>

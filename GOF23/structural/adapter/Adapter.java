@@ -1,4 +1,4 @@
-package DesignPatterns.GOF23.structural.adapter;
+package GOF23.structural.adapter;
 
 /**
  * User: Fang Lai<br/>

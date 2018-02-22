@@ -1,8 +1,8 @@
-package DesignPatterns.GOF23.creational.factories;
+package GOF23.creational.factories;
 
-import DesignPatterns.GOF23.creational.factories.product.BMW;
-import DesignPatterns.GOF23.creational.factories.product.Car;
-import DesignPatterns.GOF23.creational.factories.product.Tesla;
+import GOF23.creational.factories.product.BMW;
+import GOF23.creational.factories.product.Car;
+import GOF23.creational.factories.product.Tesla;
 
 /**
  * User: Fang Lai<br/>

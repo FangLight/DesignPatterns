@@ -1,4 +1,4 @@
-package DesignPatterns.GOF23.structural.proxy;
+package GOF23.structural.proxy;
 
 /**
  * User: Fang Lai<br/>

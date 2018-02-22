@@ -1,4 +1,4 @@
-package DesignPatterns.GOF23.creational.prototype;
+package GOF23.creational.prototype;
 
 import java.util.LinkedList;
 import java.util.List;

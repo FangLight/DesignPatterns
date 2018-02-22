@@ -1,4 +1,4 @@
-package DesignPatterns.GOF23.behavioral.ChainOfResponsibility;
+package GOF23.behavioral.ChainOfResponsibility;
 
 /**
  * User: Fang Lai<br/>

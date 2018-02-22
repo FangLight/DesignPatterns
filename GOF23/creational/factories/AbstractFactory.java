@@ -1,4 +1,4 @@
-package DesignPatterns.GOF23.creational.factories;
+package GOF23.creational.factories;
 
 /**
  * User: Fang Lai<br/>

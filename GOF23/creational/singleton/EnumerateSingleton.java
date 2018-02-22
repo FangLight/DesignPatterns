@@ -1,4 +1,4 @@
-package DesignPatterns.GOF23.creational.singleton;
+package GOF23.creational.singleton;
 
 /**
  * User: Fang Lai<br/>

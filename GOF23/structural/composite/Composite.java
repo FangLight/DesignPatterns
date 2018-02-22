@@ -1,4 +1,4 @@
-package DesignPatterns.GOF23.structural.composite;
+package GOF23.structural.composite;
 
 import java.util.LinkedList;
 import java.util.List;
